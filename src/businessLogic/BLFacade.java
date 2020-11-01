@@ -108,7 +108,7 @@ public interface BLFacade {
 	public ArrayList<PilotoEnCarrera> getPilotosEnCarreraOrdenados(Carrera c);
 
 	/*
-	 * @WebMethod public Piloto getPilotByNombre(String pnombre);
+	 * @WebMethod public Pilo to getPilotByNombre(String pnombre);
 	 * 
 	 * 
 	 * 
