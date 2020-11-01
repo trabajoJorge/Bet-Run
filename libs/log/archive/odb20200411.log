@@ -1,0 +1,56 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-11 21:54:09 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Races2\resources\bets.temp' is opened by 6100@LAPTOP-CAMHNDK2
+
+[2020-04-11 21:54:09 #2 type.registry] 
+New type domain.Carrera
+
+[2020-04-11 21:54:09 #3 type] 
+Type domain.Carrera is not enhanced.
+
+[2020-04-11 21:54:09 #4 type.registry] 
+New type domain.ParrillaDeSalida
+
+[2020-04-11 21:54:09 #5 type.registry] 
+New type java.util.ArrayList<domain.ParrillaDeSalida>
+
+[2020-04-11 21:54:09 #6 type] 
+Type domain.ParrillaDeSalida is not enhanced.
+
+[2020-04-11 21:54:09 #7 type.registry] 
+New type domain.Apuesta
+
+[2020-04-11 21:54:09 #8 type.registry] 
+New type java.util.ArrayList<domain.Apuesta>
+
+[2020-04-11 21:54:09 #9 type.registry] 
+New type domain.Piloto
+
+[2020-04-11 21:54:09 #10 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-04-11 21:54:09 #11 type] 
+Type domain.Piloto is not enhanced.
+
+[2020-04-11 21:54:09 #12 type.registry] 
+New type domain.Escuderia
+
+[2020-04-11 21:54:09 #13 type] 
+Type domain.Escuderia is not enhanced.
+
+[2020-04-11 21:54:09 #14 type.registry] 
+New type java.util.ArrayList<domain.Piloto>
+
+[2020-04-11 21:54:09 #15 type.registry] 
+New type domain.Coche
+
+[2020-04-11 21:54:09 #16 type.registry] 
+New type java.util.ArrayList<domain.Coche>
+
+[2020-04-11 21:54:09 #17 type] 
+Type domain.Coche is not enhanced.
+
+[2020-04-11 21:54:09 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+

@@ -1,0 +1,80 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-04-26 18:20:25 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Races2\resources\bets.temp' is opened by 9648@LAPTOP-CAMHNDK2
+
+[2020-04-26 18:20:26 #2 type.registry] 
+New type domain.Usuario
+
+[2020-04-26 18:20:26 #3 type.registry] 
+New type domain.Admin
+
+[2020-04-26 18:20:26 #4 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-04-26 18:20:26 #5 type] 
+Type domain.Admin is not enhanced.
+
+[2020-04-26 18:20:26 #6 type.registry] 
+New type domain.Cliente
+
+[2020-04-26 18:20:26 #7 type] 
+Type domain.Cliente is not enhanced.
+
+[2020-04-26 18:20:26 #8 type.registry] 
+New type domain.Apuesta
+
+[2020-04-26 18:20:26 #9 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-04-26 18:20:26 #10 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-04-26 18:20:26 #11 type.registry] 
+New type domain.ParrillaDeSalida
+
+[2020-04-26 18:20:26 #12 type] 
+Type domain.ParrillaDeSalida is not enhanced.
+
+[2020-04-26 18:20:26 #13 type.registry] 
+New type java.util.ArrayList<domain.Apuesta>
+
+[2020-04-26 18:20:26 #14 type.registry] 
+New type domain.Piloto
+
+[2020-04-26 18:20:26 #15 type.registry] 
+New type domain.Carrera
+
+[2020-04-26 18:20:26 #16 type] 
+Type domain.Piloto is not enhanced.
+
+[2020-04-26 18:20:26 #17 type.registry] 
+New type java.util.ArrayList<domain.ParrillaDeSalida>
+
+[2020-04-26 18:20:26 #18 type.registry] 
+New type domain.Coche
+
+[2020-04-26 18:20:26 #19 type.registry] 
+New type domain.Escuderia
+
+[2020-04-26 18:20:26 #20 type] 
+Type domain.Carrera is not enhanced.
+
+[2020-04-26 18:20:26 #21 type] 
+Type domain.Coche is not enhanced.
+
+[2020-04-26 18:20:26 #22 type] 
+Type domain.Escuderia is not enhanced.
+
+[2020-04-26 18:20:26 #23 type.registry] 
+New type java.util.ArrayList<domain.Piloto>
+
+[2020-04-26 18:20:26 #24 type.registry] 
+New type java.util.ArrayList<domain.Coche>
+
+[2020-04-26 18:20:26 #25 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2020-04-26 18:20:26 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

@@ -1,0 +1,391 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 07:48:54 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 4980@LAPTOP-CAMHNDK2
+
+[2020-03-13 07:48:55 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 07:48:55 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 07:48:55 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 07:48:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 07:48:55 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 07:48:55 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:00:01 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 14152@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:00:01 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:00:01 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:00:01 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:00:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:00:01 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:00:01 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:09:22 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 16044@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:09:22 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:09:22 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:09:22 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:09:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:09:22 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:09:22 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:10:32 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 4896@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:10:32 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:10:32 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:10:32 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:10:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:10:32 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:10:32 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:12:35 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 18272@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:12:35 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:12:35 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:12:35 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:12:35 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:12:35 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:12:35 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:13:18 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 17476@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:13:18 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:13:18 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:13:18 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:13:18 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:13:18 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:13:18 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:15:08 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 19176@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:15:08 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:15:08 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:15:08 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:15:08 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:15:08 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:15:08 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:15:33 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 19752@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:15:33 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:15:33 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:15:33 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:15:33 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:15:33 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:15:33 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:15:55 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 20208@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:15:55 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:15:55 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:15:55 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:15:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:15:55 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:15:55 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:17:56 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 9260@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:17:56 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:17:56 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:17:56 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:17:56 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:17:56 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:17:56 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:20:37 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 1316@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:20:37 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:20:37 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:20:37 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:20:37 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:20:37 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:20:37 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:21:26 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 11828@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:21:26 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:21:26 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:21:26 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:21:26 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:21:26 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:21:26 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:22:10 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 16692@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:22:11 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:22:11 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:22:11 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:22:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:22:11 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:22:11 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:23:13 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 17316@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:23:13 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:23:13 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:23:13 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:23:13 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:23:13 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:23:13 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:24:32 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 18144@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:24:32 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:24:32 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:24:32 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:24:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:24:32 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:24:32 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:26:14 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 16008@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:26:14 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:26:14 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:26:14 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:26:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:26:14 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:26:14 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-13 08:31:50 #1 store] 
+Database 'C:\Users\Jorge\eclipse-workspace\IS1\Trabajo_Carreras\Bets\resources\bets.temp' is opened by 15444@LAPTOP-CAMHNDK2
+
+[2020-03-13 08:31:50 #2 type.registry] 
+New type domain.Pilot
+
+[2020-03-13 08:31:50 #3 type] 
+Type domain.Pilot is not enhanced.
+
+[2020-03-13 08:31:50 #4 type.registry] 
+New type domain.Event
+
+[2020-03-13 08:31:50 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-13 08:31:50 #6 type.registry] 
+New type java.util.Vector<domain.Pilot>
+
+[2020-03-13 08:31:50 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

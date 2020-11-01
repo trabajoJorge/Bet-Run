@@ -1,0 +1,1554 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:00:02 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 47745@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 00:00:02 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 00:00:02 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 00:00:02 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 00:00:02 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 00:00:02 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 00:00:02 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 00:00:02 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 00:00:02 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 00:00:02 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:10:25 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 47900@MacBook-Pro-de-Leroy.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:10:53 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 47906@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 00:10:53 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 00:10:53 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 00:10:53 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 00:10:53 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 00:10:53 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 00:10:53 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 00:10:53 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 00:10:53 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 00:10:53 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:15:11 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 47941@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 00:15:11 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 00:15:11 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 00:15:11 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 00:15:11 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 00:15:11 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 00:15:11 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 00:15:11 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 00:15:11 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 00:15:11 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:16:53 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 47960@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 00:16:54 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 00:16:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 00:16:54 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 00:16:54 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 00:16:54 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 00:16:54 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 00:16:54 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 00:16:54 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 00:16:54 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:19:03 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 47983@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 00:19:03 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 00:19:03 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 00:19:03 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 00:19:03 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 00:19:03 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 00:19:03 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 00:19:03 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 00:19:03 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 00:19:03 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:19:51 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 47991@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 00:19:51 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 00:19:51 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 00:19:51 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 00:19:51 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 00:19:51 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 00:19:51 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 00:19:51 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 00:19:51 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 00:19:51 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 00:22:07 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 48008@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 00:22:07 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 00:22:07 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 00:22:07 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 00:22:07 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 00:22:07 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 00:22:07 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 00:22:07 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 00:22:07 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 00:22:07 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:23:01 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 58749@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 17:23:01 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 17:23:01 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 17:23:01 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 17:23:01 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 17:23:01 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:23:01 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 17:23:01 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 17:23:01 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:23:01 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:37:59 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 58858@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 17:37:59 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 17:37:59 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 17:37:59 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 17:37:59 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 17:37:59 #6 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 17:37:59 #7 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:37:59 #8 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:37:59 #9 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:38:17 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 58863@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 17:38:17 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 17:38:17 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 17:38:17 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 17:38:17 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 17:38:17 #6 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 17:38:17 #7 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:38:17 #8 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:38:17 #9 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:40:02 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 58876@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 17:40:02 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 17:40:02 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 17:40:02 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 17:40:02 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 17:40:02 #6 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 17:40:02 #7 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:40:02 #8 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:40:02 #9 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:42:53 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 58900@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 17:42:53 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 17:42:53 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 17:42:53 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 17:42:53 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 17:42:53 #6 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 17:42:53 #7 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:42:53 #8 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:42:53 #9 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:58:26 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59034@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 17:58:26 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 17:58:26 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 17:58:26 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 17:58:26 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 17:58:26 #6 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 17:58:26 #7 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:58:26 #8 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:58:26 #9 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:59:06 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59044@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 17:59:06 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 17:59:06 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 17:59:06 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 17:59:06 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 17:59:06 #6 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 17:59:06 #7 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:59:06 #8 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:59:06 #9 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:00:28 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59057@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:00:28 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:00:28 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:00:28 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:00:28 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:00:28 #6 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:00:28 #7 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:00:28 #8 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:00:28 #9 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:02:09 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59111@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:02:09 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:02:09 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:02:09 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:02:09 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:02:09 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:02:09 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:02:09 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:02:09 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:02:09 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:03:25 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59132@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:03:25 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:03:25 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:03:25 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:03:25 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:03:25 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:03:25 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:03:25 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:03:25 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:03:25 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:03:49 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59136@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:03:49 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:03:49 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:03:49 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:03:49 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:03:49 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:03:49 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:03:49 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:03:49 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:03:49 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:05:01 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59145@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:05:01 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:05:01 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:05:01 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:05:01 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:05:01 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:05:01 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:05:01 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:05:01 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:05:01 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:14:39 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59228@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:14:39 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:14:39 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:14:39 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:14:39 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:14:39 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:14:39 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:14:39 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:14:39 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:14:39 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:19:52 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59263@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:19:53 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:19:53 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:19:53 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:19:53 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:19:53 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:19:53 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:19:53 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:19:53 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:19:53 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:20:06 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59270@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:20:07 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:20:07 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:20:07 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:20:07 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:20:07 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:20:07 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:20:07 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:20:07 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:20:07 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:21:39 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59288@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:21:39 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:21:39 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:21:39 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:21:39 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:21:39 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:21:39 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:21:39 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:21:39 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:21:39 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:22:37 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59297@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:22:37 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:22:37 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:22:37 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:22:37 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:22:37 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:22:37 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:22:37 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:22:37 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:22:37 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:38:15 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59476@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:38:15 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:38:15 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:38:15 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:38:15 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:38:15 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:38:15 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:38:15 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:38:15 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:38:15 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:39:32 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59486@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:39:32 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:39:32 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:39:32 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:39:32 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:39:32 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:39:32 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:39:32 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:39:32 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:39:32 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:40:08 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59491@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:40:08 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:40:08 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:40:08 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:40:08 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:40:08 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:40:08 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:40:08 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:40:08 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:40:08 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:41:27 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59502@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:41:27 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:41:27 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:41:27 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:41:27 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:41:27 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:41:27 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:41:27 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:41:27 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:41:27 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:42:27 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59510@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:42:28 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:42:28 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:42:28 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:42:28 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:42:28 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:42:28 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:42:28 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:42:28 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:42:28 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:43:47 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59521@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:43:48 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:43:48 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:43:48 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:43:48 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:43:48 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:43:48 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:43:48 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:43:48 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:43:48 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:45:20 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59535@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:45:20 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:45:20 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:45:20 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:45:20 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:45:20 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:45:20 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:45:20 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:45:20 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:45:20 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:58:55 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59622@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 18:58:55 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 18:58:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 18:58:55 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 18:58:55 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 18:58:55 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 18:58:55 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 18:58:55 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 18:58:55 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 18:58:55 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:05:32 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59679@MacBook-Pro-de-Leroy.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:06:56 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59689@MacBook-Pro-de-Leroy.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:12:16 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59726@MacBook-Pro-de-Leroy.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:13:24 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59737@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:13:24 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:13:24 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:13:24 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:13:24 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:13:24 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:13:24 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:13:24 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:13:24 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:13:24 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:16:28 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59762@MacBook-Pro-de-Leroy.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:16:39 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59767@MacBook-Pro-de-Leroy.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:17:15 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59775@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:17:16 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:17:16 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:17:16 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:17:16 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:17:16 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:17:16 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:17:16 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:17:16 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:17:16 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:28:11 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59879@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:28:11 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:28:11 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:28:11 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:28:11 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:28:11 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:28:11 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:28:11 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:28:11 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:28:11 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:28:34 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59883@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:28:34 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:28:34 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:28:34 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:28:34 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:28:34 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:28:34 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:28:34 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:28:34 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:28:34 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:38:44 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59957@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:38:44 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:38:44 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:38:44 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:38:44 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:38:44 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:38:44 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:38:44 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:38:44 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:38:44 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+[2020-03-19 19:38:51 #11 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:43:38 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59993@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:43:38 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:43:38 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:43:38 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:43:38 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:43:38 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:43:38 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:43:38 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:43:38 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:43:38 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:43:56 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 59996@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:43:56 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:43:56 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:43:56 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:43:56 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:43:56 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:43:56 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:43:56 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:43:56 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:43:56 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:44:19 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60002@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:44:19 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:44:19 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:44:19 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:44:19 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:44:19 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:44:19 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:44:19 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:44:19 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:44:19 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+[2020-03-19 19:44:27 #11 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:47:15 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60030@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:47:15 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:47:15 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:47:15 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:47:15 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:47:15 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:47:15 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:47:15 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:47:15 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:47:15 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:47:33 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60040@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:47:33 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:47:33 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:47:33 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:47:33 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:47:33 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:47:33 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:47:33 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:47:33 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:47:33 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:49:07 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60057@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:49:07 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:49:07 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:49:07 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:49:07 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:49:07 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:49:07 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:49:07 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:49:07 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:49:07 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:53:13 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60141@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:53:13 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:53:13 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:53:13 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:53:13 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:53:13 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:53:13 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:53:13 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:53:13 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:53:13 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:53:27 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60143@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:53:27 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:53:27 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:53:27 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:53:27 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:53:27 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:53:27 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:53:27 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:53:27 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:53:27 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:53:42 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60147@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:53:42 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:53:42 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:53:42 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:53:42 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:53:42 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:53:42 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:53:42 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:53:42 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:53:42 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:55:55 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60164@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:55:55 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:55:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:55:55 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:55:55 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:55:55 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:55:55 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:55:55 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:55:55 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:55:55 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:59:50 #1 store] 
+Database '/Users/ldeniz/eclipse-workspace/Races2/resources/bets.temp' is opened by 60192@MacBook-Pro-de-Leroy.local
+
+[2020-03-19 19:59:50 #2 type.registry] 
+New type domain.Driver
+
+[2020-03-19 19:59:50 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2020-03-19 19:59:50 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-19 19:59:50 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-19 19:59:50 #6 type.registry] 
+New type domain.Event
+
+[2020-03-19 19:59:50 #7 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-03-19 19:59:50 #8 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-19 19:59:50 #9 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 19:59:50 #10 type.registry] 
+New type java.util.Vector<domain.Driver>
+
+[2020-03-19 20:00:04 #11 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
